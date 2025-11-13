@@ -1,0 +1,15 @@
+streamlit
+pandas
+pytest
+streamlit-tags
+fpdf2
+Pillow
+python-barcode
+python-escpos
+plotly
+scipy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+lightgbm

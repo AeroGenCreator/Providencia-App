@@ -1,0 +1,29 @@
+{
+    "modelo_ganador": "LGBMRegressor",
+    "fecha_exportacion": "2025-11-12 22:35:50",
+    "hiperparametros_optimos": {
+        "n_estimators": 11,
+        "max_depth": -1,
+        "learning_rate": 0.1,
+        "boosting_type": "gbdt",
+        "random_state": 1
+    },
+    "ingenieria_caracteristicas": {
+        "lags_usados": "1, 2, 3 meses",
+        "variables_ciclicas": "Mes (seno/coseno)",
+        "otras_features": "Media m\u00f3vil suavizada (ventana de 3 meses)",
+        "variables_eliminadas_final": [
+            "Fecha",
+            "Producto",
+            "Cantidad",
+            "Year",
+            "Month"
+        ]
+    },
+    "rendimiento_en_test_agosto_2025": {
+        "RMSE": 5.0433,
+        "MAE": 1.9866,
+        "R2": 0.499,
+        "tiempo_entrenamiento_s": 0.1599
+    }
+}

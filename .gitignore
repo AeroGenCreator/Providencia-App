@@ -1,0 +1,6 @@
+# Ignora secretos
+/.streamlit/secrets.toml
+# Ignora entorno
+.entorno
+# Ignora cache
+__pycache__

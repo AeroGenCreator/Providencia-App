@@ -1,0 +1,28 @@
+{
+  "factura": {
+    "Unidades": [
+      23.0,
+      2.0
+    ],
+    "Medida": [
+      "Pieza",
+      "Pieza"
+    ],
+    "Producto": [
+      "ABRAZADERA FOFO DE 6”",
+      "ABRAZADERA FOFO DE 8”"
+    ],
+    "Total": [
+      23.4,
+      32.0
+    ],
+    "Existencias": [
+      0,
+      0
+    ],
+    "Claves": [
+      "ABRFO150",
+      "ABRFO200"
+    ]
+  }
+}
