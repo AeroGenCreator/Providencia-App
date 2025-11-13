@@ -140,8 +140,9 @@
         "Subir un archivo 'csv' o 'txt' de '4' meses de ventas para la creacion de la matriz de caracteristicas",
         "Filas convertidas",
         "Productos totales evaluados",
-        "Informacion y documentacion del modelo.",
-        "Providencia LGBMRegressor Git-Hub repositorio y codigo"
+        "Informacion y documentacion del modelo y de la aplicacion.",
+        "Providencia LGBMRegressor Git-Hub repositorio y codigo",
+        "Providencia App Documentacion de Codigo y Librerias"
       ],
       "English": [
         "Home",
@@ -275,8 +276,9 @@
         "Upload a 'csv' or 'txt' file of '4' months of sales for the creation of the features matrix",
         "Total rows",
         "Total predicted items",
-        "Documentation about this model",
-        "Providencia LGBMRegressor Git-Hub repository and scripts"
+        "Documentation about this model and this app",
+        "Providencia LGBMRegressor Git-Hub repository and scripts",
+        "Providencia App Documentation and Packages"
       ]
     },
     "caja fondo": 1000,
