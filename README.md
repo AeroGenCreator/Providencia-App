@@ -1,6 +1,6 @@
 # Providencia-App
 
-  Despliegue de Solución Full-Stack con Streamlit para Optimización Operacional
+📦 Despliegue de Solución Full-Stack con Streamlit para Optimización Operacional
 
   Lideré el desarrollo y la implementación de una aplicación en Streamlit con propósitos multifuncionales de Business Intelligence y Machine Learning.
 
